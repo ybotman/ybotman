@@ -8,7 +8,7 @@
 - **My current focus is Gen AI**, with an emphasis on building innovative applications that extend this exciting field.
 - *I code in React and Python, crediting Gen AI for amplifying my productivity.*
 - **My engineering background** includes building body wearables (circa 2015).
-- *Feel free to read my mind via my weird blog at [ybotman.com](https://ybotman.com)
+- *Feel free to read my mind via my weird blog at* [ybotman.com](https://ybotman.com)
 - *My personal site about me at :* [TobyBalsley.com](https://tobybalsley.com).
 
 Thank you for visiting my profile!
