@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ybotman.
-- I am a visonary type and big thinker.
+- I hope to be a visonary and big thinker type. But value is needed incrementlly.
+- Think big, delver small, in line with the big.
 - I am an positive and effective leader, and many times have built collaberative and highly engaged teams.
-- I Get my hands dirty all the time.  I dont lead by 
+- I Get my hands dirty all the time. 
 - I excel at taking the big and difficult by delivering small value often.
 - Gen AI, apps, and extending that world is most of my focus today.  
 - I can, and do code - alot. But to be clear,  I am a just good hack in React and python.
